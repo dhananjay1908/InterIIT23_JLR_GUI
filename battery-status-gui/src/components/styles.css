@@ -1,0 +1,26 @@
+.car {
+    border: 2px solid white;
+}
+
+.car:hover {
+    border-color: #7E8281;
+    background-color: #7E8281;
+    color: black;
+}
+
+.batteryTop{
+    width: 25px;
+    height: 10px;
+    background-color: white;
+}
+.batteryBody{
+    width: 100px;
+    height: 200px;
+    border: 2px solid white;
+}
+.batteryInner{
+    width: 80%;
+    margin: 10px;
+    height: 27px;
+    background-color: green;
+}
